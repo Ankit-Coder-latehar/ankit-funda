@@ -8,4 +8,4 @@
 
 5. Now fifthly run your frontend code in other terminal-: npm start 
 
-6. If suppose By any reasons backend dosen't works then you can run the frontend and go directly to the htttps://localhost:3000/dashboard by running the frontend code -: npm start 
+6. If suppose By any reasons backend dosen't works then you can run the frontend and go directly to the htttps://localhost:3000/dashboard by running the frontend code -: npm start
